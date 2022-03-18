@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fungible-token/static/css/main.0a67c9ec.css",
+    "main.js": "/fungible-token/static/js/main.e97154b4.js",
+    "static/media/Manrope-Bold.woff": "/fungible-token/static/media/Manrope-Bold.59d004a726da4099a73d.woff",
+    "static/media/Robotomonomedium.ttf": "/fungible-token/static/media/Robotomonomedium.c4aa06fe206b1610be46.ttf",
+    "static/media/Robotomono.ttf": "/fungible-token/static/media/Robotomono.fcbc10fc6ca9dac685a1.ttf",
+    "static/media/Manrope-Bold.woff2": "/fungible-token/static/media/Manrope-Bold.f7cb9159fafc0e89aef3.woff2",
+    "static/media/Robotomono.woff": "/fungible-token/static/media/Robotomono.5fcd4617e93ecd664cf1.woff",
+    "static/media/Robotomonomedium.woff": "/fungible-token/static/media/Robotomonomedium.0743967b5d4f29b5bccb.woff",
+    "static/media/Robotomono.woff2": "/fungible-token/static/media/Robotomono.8c45e1d262777bd236f1.woff2",
+    "static/media/Robotomonomedium.woff2": "/fungible-token/static/media/Robotomonomedium.0c754488f5f188ae463f.woff2",
+    "index.html": "/fungible-token/index.html",
+    "static/media/arrowDown.svg": "/fungible-token/static/media/arrowDown.cba47495b9bb23cac9c5a79b6fb98667.svg",
+    "main.0a67c9ec.css.map": "/fungible-token/static/css/main.0a67c9ec.css.map",
+    "main.e97154b4.js.map": "/fungible-token/static/js/main.e97154b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a67c9ec.css",
+    "static/js/main.e97154b4.js"
+  ]
+}
