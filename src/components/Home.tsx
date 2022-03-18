@@ -4,6 +4,7 @@ import arrowDown from "assets/arrowDown.svg";
 import { CommonCard } from "./Cards/CommonCard";
 import { mockHomeTitle } from "mockData";
 import { Button } from "./Button";
+import {NearPanel} from './Near/NearPanel'
 
 const HomePage = styled.div`
   display: flex;
@@ -82,6 +83,7 @@ export const Home = () => {
 
   return (
     <HomePage>
+      <NearPanel />
       <Title>Choose the scenario</Title>
       <AnimatedBlock>
         <ArrowDownIconFirst />
@@ -89,7 +91,7 @@ export const Home = () => {
       </AnimatedBlock>
       <ScenariosBlock>
         {Object.values(mockHomeTitle).map((title, i) => (
-          <CommonCard text={title} />
+          <CommonCard key={i} text={title} />
         ))}
       </ScenariosBlock>
       <Button
